@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "ajv": "^6.5.0",
-        "electron": "4.2.5",
+        "electron": "11.5.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-runtime": "^6.23.0",
